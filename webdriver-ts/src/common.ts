@@ -70,6 +70,8 @@ export let frameworks = [
     f("plastiq-v1.33.0-keyed", true),
     f("polymer-v2.0.0-non-keyed", false, {uri: "polymer-v2.0.0-non-keyed", useShadowRoot: true}),
     f("preact-v7.1.0-keyed", true),
+    f("zreact-v0.0.3-keyed", true),
+    f("anujs-v1.0.7-keyed", true),
     f("ractive-v0.8.12-keyed", true),
     f("ractive-v0.8.12-non-keyed", false),
     f("ractive-edge-keyed", true),
