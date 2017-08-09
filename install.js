@@ -3,7 +3,7 @@ var exec = require('child_process').execSync;
 var fs = require('fs');
 var commandExists = require('command-exists');
 
-var installCommand = 'npm install';
+var installCommand = 'yarn';
 
 var excludedDirectories = ['css', 'dist','node_modules','webdriver-java','images'];
 
