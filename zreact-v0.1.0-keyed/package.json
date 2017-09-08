@@ -25,6 +25,6 @@
     "babel-core": "6.21.0",
     "babel-loader": "6.2.10",
     "jsx-loader": "0.13.2",
-    "zreact": "^0.0.3"
+    "zreact": "^0.1.0"
   }
 }
